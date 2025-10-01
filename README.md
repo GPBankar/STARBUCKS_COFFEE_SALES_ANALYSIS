@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="" alt="Starbucks Store" width="850">
+  <img src="https://github.com/GPBankar/STARBUCKS_COFFEE_SALES_ANALYSIS/blob/main/file2/Dashboard.png?raw=true" alt="Starbucks Store" width="850">
 </p>
 ---
 
